@@ -1,6 +1,6 @@
 # Auto Form Filler
 <div align="center">
-    <img src="https://github.com/IamHassanAb/auto-form-filler/raw/main/assets/Gif.gif" alt="Description" style="width: 50%;">
+    <img src="https://github.com/IamHassanAb/auto-form-filler/raw/main/assets/Gif.gif" alt="Description" style="width: 120%;">
     <br>
     DEMO
 </div>
