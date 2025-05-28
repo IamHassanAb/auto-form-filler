@@ -1,6 +1,9 @@
 # Auto Form Filler
-
-![Demo](https://github.com/IamHassanAb/auto-form-filler/raw/main/assets/Gif.gif)
+<div align="center">
+    <img src="https://github.com/IamHassanAb/auto-form-filler/raw/main/assets/Gif.gif" alt="Description" style="width: 50%;">
+    <br>
+    DEMO
+</div>
 
 
 A project for automatically filling out forms using an LLM-powered Q&A workflow, with a real-time chat UI and Python FastAPI backend.
