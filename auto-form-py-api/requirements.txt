@@ -1,0 +1,11 @@
+python-dotenv
+websockets
+pydantic
+fastapi
+uvicorn
+openai
+langchain
+langchain-openai
+langchain-community
+langgraph
+langsmith
