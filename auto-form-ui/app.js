@@ -6,6 +6,7 @@ class ChatApp {
         this.socket = null;
         this.initializeElements();
         this.setupEventListeners();
+        this.connectWebSocket();
     }
 
     initializeElements() {

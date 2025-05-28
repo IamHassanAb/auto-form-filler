@@ -2,7 +2,7 @@ python-dotenv
 websockets
 pydantic
 fastapi
-uvicorn
+uvicorn[standard]
 openai
 langchain
 langchain-openai
